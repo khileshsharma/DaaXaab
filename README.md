@@ -12,3 +12,18 @@ Users can apply to become doctors, expanding the pool of medical professionals o
 The platform allows admin to remove users or doctors when necessary to maintain the platform's integrity. Appointment marking by doctors and admin ensures proper record-keeping. Notifications for application statuses and appointment updates facilitate effective communication.
 
 All data is securely stored in a database, ensuring data integrity and easy retrieval. The emphasis on data security guarantees that sensitive medical information is protected, providing users with a reliable and safe healthcare platform.
+
+<h2>ScreenShots of WebPages: </h2> 
+<h3>Home Page:</h3>
+![home page](https://github.com/khileshsharma/DaaXaab/assets/130452677/2acf044e-d1c0-4796-97b3-f3a871cc5cff)
+<h3>SignUp Page:</h3>
+![signup](https://github.com/khileshsharma/DaaXaab/assets/130452677/92e40a53-ec8a-4978-ab62-9fe564a7e377)
+<h3>SignIn Page:</h3>
+![signin](https://github.com/khileshsharma/DaaXaab/assets/130452677/f7d7e9b4-4e4f-4593-a0ee-1ddd174eb488)
+<h3>Profile:</h3>
+![profile](https://github.com/khileshsharma/DaaXaab/assets/130452677/694fcb50-7151-4345-9d34-fa6634faffe2)
+<h3>Doctors Page:</h3>
+![doctors](https://github.com/khileshsharma/DaaXaab/assets/130452677/47dc1ada-28ce-4a9c-89bf-e864e6e943e3)
+<h3>Apply as Doctor Page: </h3>
+![docapply](https://github.com/khileshsharma/DaaXaab/assets/130452677/0e9a0085-fbab-4750-8a71-d3e053714c2d)
+
