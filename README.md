@@ -16,14 +16,47 @@ All data is securely stored in a database, ensuring data integrity and easy retr
 <h2>ScreenShots of WebPages: </h2> 
 <h3>Home Page:</h3>
 ![home page](https://github.com/khileshsharma/DaaXaab/assets/130452677/2acf044e-d1c0-4796-97b3-f3a871cc5cff)
-<h3>SignUp Page:</h3>
-![signup](https://github.com/khileshsharma/DaaXaab/assets/130452677/92e40a53-ec8a-4978-ab62-9fe564a7e377)
-<h3>SignIn Page:</h3>
-![signin](https://github.com/khileshsharma/DaaXaab/assets/130452677/f7d7e9b4-4e4f-4593-a0ee-1ddd174eb488)
-<h3>Profile:</h3>
-![profile](https://github.com/khileshsharma/DaaXaab/assets/130452677/694fcb50-7151-4345-9d34-fa6634faffe2)
-<h3>Doctors Page:</h3>
-![doctors](https://github.com/khileshsharma/DaaXaab/assets/130452677/47dc1ada-28ce-4a9c-89bf-e864e6e943e3)
-<h3>Apply as Doctor Page: </h3>
-![docapply](https://github.com/khileshsharma/DaaXaab/assets/130452677/0e9a0085-fbab-4750-8a71-d3e053714c2d)
 
+### Sign up page
+
+<img src="./client/src/images/signup.png" alt='signup'/>
+
+### Sign in page
+
+<img src="./client/src/images/signin.png" alt='signin'/>
+
+### Profile page
+
+<img src="./client/src/images/profile.png" alt='profile'/>
+
+### All Doctors page
+
+<img src="./client/src/images/doctors.png" alt='doctors'/>
+
+### Apply for doctor page
+
+<img src="./client/src/images/docapply.png" alt='applyfordoctor'/>
+
+### Admin all users dashboard
+
+<img src="./client/src/images/users.png" alt='users'/>
+
+### Admin all applications page
+
+<img src="./client/src/images/applications.png" alt='applications'/>
+
+### Book Appointment page
+
+<img src="./client/src/images/bookappointment.png" alt='bookappointment'/>
+
+### Users all appointments page
+
+<img src="./client/src/images/userappointments.png" alt='appointments'/>
+
+### Doctors all appointments page
+
+<img src="./client/src/images/doctorappointments.png" alt='appointments'/>
+
+### Notifications page
+
+<img src="./client/src/images/notifications.png" alt='notifications'/>
