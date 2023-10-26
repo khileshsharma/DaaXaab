@@ -13,6 +13,17 @@ The platform allows admin to remove users or doctors when necessary to maintain 
 
 All data is securely stored in a database, ensuring data integrity and easy retrieval. The emphasis on data security guarantees that sensitive medical information is protected, providing users with a reliable and safe healthcare platform.
 
+<h2>How to access the dashboard as an admin?</h2>
+<ol>
+<li>Download this project from the git repo.</li>
+<li>Now create your own MongoDB instance and add the MongoDB url to the .env file.</li>
+<li>Register on the website and go to your MongoDB </li>
+<li>Manually change the 'isAdmin' field of the account you want to make admin in the DB to 'true'.</li>
+<li>Then log in back on the website. </li>
+<li>This way you will be able to access the admin dashboard.</li>
+</ol>
+
+
 <h2>ScreenShots of WebPages: </h2> 
 <h3>Home Page:</h3>
 ![home page](https://github.com/khileshsharma/DaaXaab/assets/130452677/2acf044e-d1c0-4796-97b3-f3a871cc5cff)
